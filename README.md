@@ -12,7 +12,7 @@
   <img align="center" alt="Marilia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ## Contacte me
+  ## 
  
 <div> 
   <a href = "mailto:garciaamarilia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,7 +21,7 @@
 
 
 
-
+##
 
 💻 Software developer with 3 years of experience in development for industrial and commercial areas, developing MES (Manufacturing Execution Systems) with strong data integration for industries in Brazil.
 
