@@ -1,4 +1,4 @@
-### Hello!! I'm Marília. 
+### Hello!! I'm Marília Garcia. 
 ### Welcome to my GitHub. 👋
 
 <div align="center">
@@ -10,15 +10,17 @@
   <img align="center" alt="Marilia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marilia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marilia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- width=676&height=676">
 </div>
   
-  ##
+  ## Contacte me
  
 <div> 
   <a href = "mailto:garciaamarilia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mmariliagarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+
 
 
 💻 Software developer with 3 years of experience in development for industrial and commercial areas, developing MES (Manufacturing Execution Systems) with strong data integration for industries in Brazil.
