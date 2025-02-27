@@ -1,5 +1,5 @@
 ### Hello!! I'm Marília Garcia. 
-### Welcome to my GitHub. 👋
+### Welcome to my GitHub.
 
 <div align="center">
   <a href="https://github.com/GarciaaMarilia">
@@ -31,3 +31,6 @@
 💻 Software developer with 3 years of experience in development for industrial and commercial areas, developing MES (Manufacturing Execution Systems) with strong data integration for industries in Brazil.
 
 🎓 Graduated in Science and Technology at the Federal University of Rio Grande do Norte - UFRN.
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarciaaMarilia&show_icons=true&theme=radical)
